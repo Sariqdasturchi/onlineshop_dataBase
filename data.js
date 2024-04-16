@@ -1,0 +1,42 @@
+const dataBase = [
+    {
+        img: "https://cdn-images.farfetch-contents.com/15/62/45/04/15624504_28291154_1000.jpg",
+        category: "Jordan",
+        title: "x Dior Air Jordan 1 Retro High sneakers",
+        price: "16,853$",
+        newPrice: "11,853$",
+        color: "silver",
+    },
+    {
+        img: "https://cdn-images.farfetch-contents.com/14/08/89/05/14088905_18503305_1000.jpg",
+        category: "Jordan",
+        title: "Air Jordan 1 Retro High OG Chicago Lost And Found sneakers",
+        price: "594$",
+        newPrice: "494$",
+        color: "red",
+    },
+    {
+        img: "https://cdn-images.farfetch-contents.com/18/31/64/89/18316489_41349181_1000.jpg",
+        category: "Jordan",
+        title: "Air Jordan 1 Retro High OG Panda sneakers",
+        price: "606$",
+        newPrice: "504$",
+        color: "white",
+    },
+    {
+        img: "https://intertop.ua/load/NM20249/1600x2133/MAIN.jpeg",
+        category: "Nike",
+        title: "Nike DH2987-001",
+        price: "606$",
+        newPrice: "504$",
+        color: "black",
+    },
+    {
+        img: "https://cdn-images.farfetch-contents.com/18/31/64/89/18316489_41349181_1000.jpg",
+        category: "Jordan",
+        title: "Air Jordan 1 Retro High OG Panda sneakers",
+        price: "606$",
+        newPrice: "504$",
+        color: "white",
+    },
+]
